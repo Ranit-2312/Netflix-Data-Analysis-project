@@ -1,4 +1,5 @@
 # Netflix-Data-Analysis-project
+# Author: Ranit Karmakar
 
 This project analyzes the **Netflix dataset** using Python. It covers **data cleaning, exploratory data analysis (EDA), and visualization** to uncover insights about Netflix content such as genre trends, release patterns, ratings, and country distributions.
 
